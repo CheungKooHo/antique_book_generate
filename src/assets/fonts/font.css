@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'qiji-combo';
+  src: url('./qiji-combo.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HanaMinA';
+  src: url('./HanaMinA.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HanaMinB';
+  src: url('./HanaMinB.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DaMengHan-2';
+  src: url('./DaMengHan-2.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
